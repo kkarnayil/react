@@ -10,7 +10,7 @@
     "react-dom": "^16.12.0",
     "react-load-script": "0.0.6",
     "react-render-html": "^0.6.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "PORT=4502 react-scripts start",
